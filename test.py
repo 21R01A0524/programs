@@ -1,40 +1,42 @@
-"""print("Hello Python")"""#printing hello python
-"""a=10
+print("Hello Python")#printing hello python
+
+a=10
 b=19
 print(a+b)
-print(a/b)"""#addition and division
+print(a/b)#addition and division
 
-"""a=int(input())
+a=int(input())
 b=int(input())
 print(a+b)
-print(a/b)"""#by user input
-"""
+print(a/b)#by user input
+
+
 base=int(input())
 height=int(input())
 area=0.5*base*height
-print(area)"""#area of triangle
-"""
+print(area)#area of triangle
+
 a=int(input())
 b=int(input())
 a=a-b
 b=a+b
 a=b-a
-print(a,b)"""#swaping of 2 numbers using arthematic operations
+print(a,b)#swaping of 2 numbers using arthematic operations
 
-"""a=int(input())
+a=int(input())
 b=int(input())
 a=a^b
 b=a^b
 a=b^a
-print(a,b)"""#using xor functions
+print(a,b)#using xor functions
 
 #area and perimeter of
 #square
-"""a=int(input())
+a=int(input())
 area=a*a
 perimeter=4*a
 print("area of square is:",area)
-print("perimeter of square is:",perimeter)"""
+print("perimeter of square is:",perimeter)
 
 #rectangle
 a=int(input())
@@ -45,7 +47,7 @@ print("area of rectangle is:",area)
 print("perimeter of rectangle is:",perimeter)
 
 #triangle
-"""base=int(input())
+base=int(input())
 height=int(input())
 area=0.5*base*height
 perimeter=base+height+base
@@ -57,7 +59,7 @@ radius=int(input())
 area=3.14*radius
 perimeter=2*3.14*radius
 print("area of circle is:",area)
-print("perimeter of circle:",perimeter)"""
+print("perimeter of circle:",perimeter)
 
 
 
